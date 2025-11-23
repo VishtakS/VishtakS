@@ -1,5 +1,11 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my pet-project "Status project"
+
+## About me:
+
+## Connect with me:
+
+
 <!--
 **VishtakS/VishtakS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
