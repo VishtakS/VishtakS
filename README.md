@@ -6,7 +6,7 @@
 
 ### Проекты:
 - ХХХХХХ
-- [Games - проект-исследование факторов, влияющих на успешность компьютеоных игр](student projects/Games/Games_final.ipynb)
+- [Games - проект-исследование факторов, влияющих на успешность компьютеоных игр](student projects/Games_final.ipynb)
 
 ### Стек:
 - Анализ данных: Python, Pandas, Numpy;
