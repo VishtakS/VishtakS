@@ -6,7 +6,7 @@
 
 ### Проекты:
 - [Учебные проекты](https://github.com/Vishtaks/Practicum_projects)
-- XXXXXX
+- [Собственные проекты](https://github.com/Vishtaks/Pet_projects)
 
 ### Стек:
 - Анализ данных: Python, Pandas, Numpy;
@@ -15,7 +15,7 @@
 - Дополнительно: MS Office для анализа и визуализации данных.
 
 ### Контакты:
-- sergei.l.vishtak@gmail.com
+- 📫 sergei.l.vishtak@gmail.com
 - [Телеграм](https://t.me/vishtaks)
 
 <!--
