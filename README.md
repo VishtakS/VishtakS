@@ -16,7 +16,7 @@
 
 ### Контакты:
 - sergei.l.vishtak@gmail.com
-- [Телеграм](https://t.me/@Vishtaks)
+- [Телеграм](https://t.me/@vishtaks)
 
 <!--
 **VishtakS/VishtakS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
