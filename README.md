@@ -15,8 +15,8 @@
 - Дополнительно: MS Office для анализа и визуализации данных.
 
 ### Контакты:
-- Почта
-- Телеграм
+- sergei.l.vishtak@gmail.com
+- [Телеграм](https://t.me/@Vishtaks)
 
 <!--
 **VishtakS/VishtakS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
