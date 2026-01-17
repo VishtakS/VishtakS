@@ -6,7 +6,7 @@
 
 ### Проекты:
 - ХХХХХХ
-- YYYYYY
+- [Games](Games/Games_final.ipynb)
 
 ### Стек:
 - Анализ данных: Python, Pandas, Numpy;
