@@ -17,6 +17,8 @@
 ### Контакты:
 - 📫 sergei.l.vishtak@gmail.com
 - [Телеграм](https://t.me/vishtaks)
+- [<img width="48" height="48" alt="icons8-telegram-app-48" src="https://github.com/user-attachments/assets/25522573-2e40-4df8-8649-79224f0ebb53" />](https://t.me/vishtaks)
+
 
 <!--
 **VishtakS/VishtakS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
