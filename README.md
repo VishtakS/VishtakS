@@ -6,7 +6,7 @@
 
 ### Проекты:
 - [Учебные проекты](https://github.com/Vishtaks/Practicum_projects)
-- [Games](Practicum_projects/Games_final.ipynb)
+- XXXXXX
 
 ### Стек:
 - Анализ данных: Python, Pandas, Numpy;
